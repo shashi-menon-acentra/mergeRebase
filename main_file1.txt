@@ -1,1 +1,1 @@
-Would like to keep this line that was added while in Main branch when confict appears.
+Keep this when conflict occurs - main.

@@ -1,1 +1,1 @@
-Expecting merge conflict - develop.
+Main - Discard this when merge conflict occurs.

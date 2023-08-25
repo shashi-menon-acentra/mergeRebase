@@ -1,1 +1,1 @@
-Main - Discard this when merge conflict occurs.
+Develop - Keep this when merge conflict occurs.
